@@ -6,4 +6,7 @@ React London @ Facebook office
 
 ## The Extraordinary Journey of a Software Engineer
 Udacity Google Meetup @ SkillsMatter
-- PDF. [Link](https://github.com/SonyaMoisset/TechTalksPresentations_Ldn/blob/master/The_extraordinary_journey_of_a_software_engineer.pdf)
+- PDF. [Link](https://github.com/SonyaMoisset/TechTalksPresentations_Ldn/blob/master/The_extraordinary_journey_of_a_software_engineer.pdf)   
+
+Tech Women London @ Cloudreach   
+- PDF. [Link](https://github.com/SonyaMoisset/TechTalksPresentations_Ldn/blob/master/The_extraordinary_journey_of_a_software_engineer_WIT.pdf)
