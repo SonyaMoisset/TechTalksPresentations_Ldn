@@ -10,3 +10,6 @@ Udacity Google Meetup @ SkillsMatter
 
 Tech Women London @ Cloudreach   
 - PDF. [Link](https://github.com/SonyaMoisset/TechTalksPresentations_Ldn/blob/master/The_extraordinary_journey_of_a_software_engineer_WIT.pdf)
+
+Women Who Code @ TFL   
+- PDF. [Link](https://github.com/SonyaMoisset/TechTalksPresentations_Ldn/blob/master/The_extraordinary_journey_of_a_software_engineer_WWC.pdf)
