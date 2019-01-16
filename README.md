@@ -15,7 +15,10 @@ Tech Women London @ Cloudreach
 - PDF. [Link](https://github.com/SonyaMoisset/TechTalksPresentations_Ldn/blob/master/The_extraordinary_journey_of_a_software_engineer_WIT.pdf)
 
 Women Who Code @ TFL   
-- PDF. [Link](https://github.com/SonyaMoisset/TechTalksPresentations_Ldn/blob/master/The_extraordinary_journey_of_a_software_engineer_WWC.pdf)
+- PDF. [Link](https://github.com/SonyaMoisset/TechTalksPresentations_Ldn/blob/master/The_extraordinary_journey_of_a_software_engineer_WWC.pdf)   
+
+Flatiron School
+- PDF. [Link](https://github.com/SonyaMoisset/TechTalksPresentations_Ldn/blob/master/The_extraordinary_journey_of_a_software_engineer_Flatiron.pdf)
 
 ## Cybersecurity's Future with Blockchain
 BlockchainLive 2018 @ Kensington Olympia
