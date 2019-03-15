@@ -7,6 +7,9 @@ React London @ Facebook office
 Tech(k)nowday - Ada Lovelace Day 2018 @ The Curtain   
 - PDF. [Link](https://github.com/SonyaMoisset/TechTalksPresentations_Ldn/blob/master/Keep_calm_and_fasten_your_seat_belts_techknowday.pdf)
 
+Time To React @ Photobox (2019 Version)   
+- PDF. [Link](https://github.com/SonyaMoisset/TechTalksPresentations_Ldn/blob/master/Keep_calm_and_fasten_your_seat_belts_timetoreact.pdf)
+
 ## The Extraordinary Journey of a Software Engineer
 Udacity Google Meetup @ SkillsMatter
 - PDF. [Link](https://github.com/SonyaMoisset/TechTalksPresentations_Ldn/blob/master/The_extraordinary_journey_of_a_software_engineer.pdf)   
