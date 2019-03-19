@@ -10,6 +10,11 @@ Tech(k)nowday - Ada Lovelace Day 2018 @ The Curtain
 Time To React @ Photobox (2019 Version)   
 - PDF. [Link](https://github.com/SonyaMoisset/TechTalksPresentations_Ldn/blob/master/Keep_calm_and_fasten_your_seat_belts_timetoreact.pdf)
 
+## Keep Calm & Secure Your CI/CD Pipeline
+Product Series @ Flatiron    
+- PDF. [Link](https://github.com/SonyaMoisset/TechTalksPresentations_Ldn/blob/master/Keep_calm_and_secure_your_ci-cd_pipeline_flatiron.pdf)
+
+
 ## The Extraordinary Journey of a Software Engineer
 Udacity Google Meetup @ SkillsMatter
 - PDF. [Link](https://github.com/SonyaMoisset/TechTalksPresentations_Ldn/blob/master/The_extraordinary_journey_of_a_software_engineer.pdf)   
