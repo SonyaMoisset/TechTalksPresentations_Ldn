@@ -12,7 +12,10 @@ Time To React @ Photobox (2019 Version)
 
 ## Keep Calm & Secure Your CI/CD Pipeline
 Product Series @ Flatiron    
-- PDF. [Link](https://github.com/SonyaMoisset/TechTalksPresentations_Ldn/blob/master/Keep_calm_and_secure_your_ci-cd_pipeline_flatiron.pdf)
+- PDF. [Link](https://github.com/SonyaMoisset/TechTalksPresentations_Ldn/blob/master/Keep_calm_and_secure_your_ci-cd_pipeline_flatiron.pdf)   
+
+ReactsJS Girls London @ YLD    
+- PDF. [Link](https://github.com/SonyaMoisset/TechTalksPresentations_Ldn/blob/master/Keep_calm_and_secure_your_ci-cd_pipeline_reactsjsgirls.pdf)
 
 
 ## The Extraordinary Journey of a Software Engineer
