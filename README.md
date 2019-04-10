@@ -17,6 +17,9 @@ Product Series @ Flatiron
 ReactsJS Girls London @ YLD    
 - PDF. [Link](https://github.com/SonyaMoisset/TechTalksPresentations_Ldn/blob/master/Keep_calm_and_secure_your_ci-cd_pipeline_reactsjsgirls.pdf)
 
+DevOps Exchange London @ Monzo    
+- PDF. [Link](https://github.com/SonyaMoisset/TechTalksPresentations_Ldn/blob/master/Keep_calm_and_secure_your_ci-cd_pipeline_devopsexchange.pdf)
+
 
 ## The Extraordinary Journey of a Software Engineer
 Udacity Google Meetup @ SkillsMatter
