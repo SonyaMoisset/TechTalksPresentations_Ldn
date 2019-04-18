@@ -18,7 +18,10 @@ ReactsJS Girls London @ YLD
 - PDF. [Link](https://github.com/SonyaMoisset/TechTalksPresentations_Ldn/blob/master/Keep_calm_and_secure_your_ci-cd_pipeline_reactsjsgirls.pdf)
 
 DevOps Exchange London @ Monzo    
-- PDF. [Link](https://github.com/SonyaMoisset/TechTalksPresentations_Ldn/blob/master/Keep_calm_and_secure_your_ci-cd_pipeline_devopsexchange.pdf)
+- PDF. [Link](https://github.com/SonyaMoisset/TechTalksPresentations_Ldn/blob/master/Keep_calm_and_secure_your_ci-cd_pipeline_devopsexchange.pdf) .  
+
+OWASP WIA @ Photobox    
+- PDF. [Link](https://github.com/SonyaMoisset/TechTalksPresentations_Ldn/blob/master/Keep_calm_and_secure_your_ci-cd_pipeline_owaspwia.pdf)
 
 
 ## The Extraordinary Journey of a Software Engineer
