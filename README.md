@@ -26,7 +26,10 @@ OWASP WIA @ Photobox
 MarketInvoice Webinar
 
 React London @ Facebook    
-- PDF. [Link](https://github.com/SonyaMoisset/TechTalksPresentations_Ldn/blob/master/Keep_calm_and_secure_your_ci-cd_pipeline_reactlondon.pdf)
+- PDF. [Link](https://github.com/SonyaMoisset/TechTalksPresentations_Ldn/blob/master/Keep_calm_and_secure_your_ci-cd_pipeline_reactlondon.pdf)    
+
+DevSecOps London Gathering @ Kobalkt Music Group    
+- PDF. [Link](https://github.com/SonyaMoisset/TechTalksPresentations_Ldn/blob/master/Keep_calm_and_secure_your_ci-cd_pipeline_devsecops_ldn_gathering.pdf)
 
 
 ## The Extraordinary Journey of a Software Engineer
