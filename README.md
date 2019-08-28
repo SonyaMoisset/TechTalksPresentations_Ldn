@@ -8,7 +8,9 @@ Tech(k)nowday - Ada Lovelace Day 2018 @ The Curtain
 - PDF. [Link](https://github.com/SonyaMoisset/TechTalksPresentations_Ldn/blob/master/Keep_calm_and_fasten_your_seat_belts_techknowday.pdf)
 
 Time To React @ Photobox (2019 Version)   
-- PDF. [Link](https://github.com/SonyaMoisset/TechTalksPresentations_Ldn/blob/master/Keep_calm_and_fasten_your_seat_belts_timetoreact.pdf)
+- PDF. [Link](https://github.com/SonyaMoisset/TechTalksPresentations_Ldn/blob/master/Keep_calm_and_fasten_your_seat_belts_timetoreact.pdf)  
+JsMonthly @ Busuu (Synthwave Version)   
+- PDF. [Link](https://github.com/SonyaMoisset/TechTalksPresentations_Ldn/blob/master/Keep_calm_and_fasten_your_seat_belts_jsmonthly.pdf)
 
 ## Keep Calm & Secure Your CI/CD Pipeline
 Product Series @ Flatiron    
