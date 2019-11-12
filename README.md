@@ -13,6 +13,9 @@ Time To React @ Photobox (2019 Version)
 JSMonthly @ Busuu (Synthwave Version)   
 - PDF. [Link](https://github.com/SonyaMoisset/TechTalksPresentations_Ldn/blob/master/Keep_calm_and_fasten_your_seat_belts_jsmonthly.pdf)
 
+FEL @ Syft (Synthwave Version)   
+- PDF. [Link](https://github.com/SonyaMoisset/TechTalksPresentations_Ldn/blob/master/Keep_calm_and_fasten_your_seat_belts_fel.pdf)
+
 ## Keep Calm & Secure Your CI/CD Pipeline
 Product Series @ Flatiron    
 - PDF. [Link](https://github.com/SonyaMoisset/TechTalksPresentations_Ldn/blob/master/Keep_calm_and_secure_your_ci-cd_pipeline_flatiron.pdf)   
