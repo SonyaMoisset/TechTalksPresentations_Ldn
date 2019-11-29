@@ -16,6 +16,10 @@ JSMonthly @ Busuu (Synthwave Version)
 FEL @ Syft (Synthwave Version)   
 - PDF. [Link](https://github.com/SonyaMoisset/TechTalksPresentations_Ldn/blob/master/Keep_calm_and_fasten_your_seat_belts_fel.pdf)
 
+Trending.js @ The Financial Times (Synthwave Version)   
+- PDF. [Link](https://github.com/SonyaMoisset/TechTalksPresentations_Ldn/blob/master/Keep_calm_and_fasten_your_seat_belts_trendingjs.pdf)
+
+
 ## Keep Calm & Secure Your CI/CD Pipeline
 Product Series @ Flatiron    
 - PDF. [Link](https://github.com/SonyaMoisset/TechTalksPresentations_Ldn/blob/master/Keep_calm_and_secure_your_ci-cd_pipeline_flatiron.pdf)   
