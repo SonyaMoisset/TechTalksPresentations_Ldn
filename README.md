@@ -75,4 +75,9 @@ Codebar @ Photobox
 
 ## Cybersecurity's Future with Blockchain
 BlockchainLive 2018 @ Kensington Olympia
-- PDF. [Link](https://github.com/SonyaMoisset/TechTalksPresentations_Ldn/blob/master/Cybersecurity_future_with_blockchain_BlockchainLive2018.pdf)
+- PDF. [Link](https://github.com/SonyaMoisset/TechTalksPresentations_Ldn/blob/master/Cybersecurity_future_with_blockchain_BlockchainLive2018.pdf)   
+
+## The Code is Chaos - No One is Immune
+Industry Talk @ Flatiron School London
+- PDF. [Link](https://github.com/SonyaMoisset/TechTalksPresentations_Ldn/blob/master/The_code_is_chaos_flatiron.pdf)
+
