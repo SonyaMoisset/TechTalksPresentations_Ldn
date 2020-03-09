@@ -71,7 +71,10 @@ Codebar @ RedBadger
 - PDF. [Link](https://github.com/SonyaMoisset/TechTalksPresentations_Ldn/blob/master/The_extraordinary_journey_of_a_software_engineer_Codebar.pdf)
 
 Codebar @ Photobox
-- PDF. [Link](https://github.com/SonyaMoisset/TechTalksPresentations_Ldn/blob/master/The_extraordinary_journey_of_a_software_engineer_synthwave-Codebar.pdf)
+- PDF. [Link](https://github.com/SonyaMoisset/TechTalksPresentations_Ldn/blob/master/The_extraordinary_journey_of_a_software_engineer_synthwave-Codebar.pdf)  
+
+IWD @ Bulb
+- PDF. [Link](https://github.com/SonyaMoisset/TechTalksPresentations_Ldn/blob/master/The_extraordinary_journey_of_a_software_engineer_Bulb.pdf)
 
 ## Cybersecurity's Future with Blockchain
 BlockchainLive 2018 @ Kensington Olympia
