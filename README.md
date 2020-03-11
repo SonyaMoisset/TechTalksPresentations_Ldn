@@ -83,4 +83,6 @@ BlockchainLive 2018 @ Kensington Olympia
 ## The Code is Chaos - No One is Immune
 Industry Talk @ Flatiron School London
 - PDF. [Link](https://github.com/SonyaMoisset/TechTalksPresentations_Ldn/blob/master/The_code_is_chaos_flatiron.pdf)
-
+   
+JSMonthly @ RVU
+- PDF. [Link](https://github.com/SonyaMoisset/TechTalksPresentations_Ldn/blob/master/The_code_is_chaos_jsmonthly.pdf)
