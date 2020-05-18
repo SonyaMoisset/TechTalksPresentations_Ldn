@@ -88,3 +88,7 @@ Industry Talk @ Flatiron School London
    
 JSMonthly @ RVU
 - PDF. [Link](https://github.com/SonyaMoisset/TechTalksPresentations_Ldn/blob/master/The_code_is_chaos_jsmonthly.pdf)
+
+## GetSecure, BeSecure & StaySecure
+MooseCon @ VMWare Security Conference
+- PDF. [Link](https://github.com/SonyaMoisset/TechTalksPresentations_Ldn/blob/master/GetSecure_BeSecure_StaySecure_MooseCon.pdf)
