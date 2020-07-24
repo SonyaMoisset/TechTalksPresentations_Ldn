@@ -54,7 +54,10 @@ LLHS @ HSBC (Synthwave Version)
 - PDF. [Link](https://github.com/SonyaMoisset/TechTalksPresentations_Ldn/blob/master/Keep_calm_and_secure_your_ci-cd_pipeline_llhs.pdf)   
 
 PickJS Webinar (Synthwave Version)     
-- PDF. [Link](https://github.com/SonyaMoisset/TechTalksPresentations_Ldn/blob/master/Keep_calm_and_secure_your_ci-cd_pipeline_pickjs.pdf)
+- PDF. [Link](https://github.com/SonyaMoisset/TechTalksPresentations_Ldn/blob/master/Keep_calm_and_secure_your_ci-cd_pipeline_pickjs.pdf)  
+
+Deskflix Season Four: DevOps Live 2020 (Synthwave Version)     
+- PDF. [Link](https://github.com/SonyaMoisset/TechTalksPresentations_Ldn/blob/master/Keep_calm_and_secure_your_ci-cd_pipeline_devopslive.pdf)  
 
 ## The Extraordinary Journey of a Software Engineer
 Udacity Google Meetup @ SkillsMatter
